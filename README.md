@@ -1,2 +1,5 @@
 # gunosy
-source code inside
+
+## 依存しているライブラリ
+- MeCab
+- pyquery
